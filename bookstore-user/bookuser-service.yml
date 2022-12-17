@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service #What kind of object you want to create
+metadata: #service name,Data that helps uniquely identify the object
+  name: bookuserms
+spec: #What state you desire for the object
+  selector:
+    app: bookuserms
+  ports:
+    - port: 8006  #port at which service is internally available
+      targetPort: 8006 #port of container
+      
+      name: bookuserms
+  type: LoadBalancer

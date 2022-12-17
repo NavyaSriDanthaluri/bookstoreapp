@@ -5,17 +5,27 @@ services:
     
    
     bookstore:        
-        build: bookstorebook
+        build: bookstore-book
         ports:
         - 8001:8001
      
     publisher:        
-        build: publisher
+        build: bookstore-publisher
         ports:
         - 8009:8009
      
 
     bookreviews:        
-        build: bookreviews
+        build: bookstore-reviews
         ports:
         - 8000:8000
+
+    bookuser:        
+        build: bookstore-user
+        ports:
+        - 8006:8006
+
+   bookorder:        
+        build: bookstore-order
+        ports:
+        - 8002:8002
