@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+    
+    
+   
+    bookstore:        
+        build: bookstorebook
+        ports:
+        - 8001:8001
+     
+    publisher:        
+        build: publisher
+        ports:
+        - 8009:8009
+     
+
+    bookreviews:        
+        build: bookreviews
+        ports:
+        - 8000:8000

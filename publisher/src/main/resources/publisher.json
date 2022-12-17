@@ -1,0 +1,50 @@
+[
+    {
+        "publisherId": 2,
+        "publisherName": "West Lands2",
+        "address": "Chennai1",
+        "country": "India1"
+    },
+    {
+        "publisherId": 3,
+        "publisherName": "Horper Collins",
+        "address": "New York",
+        "country": "United States"
+    },
+    {
+        "publisherId": 4,
+        "publisherName": "Simon&Shuster",
+        "address": "New York",
+        "country": "United States"
+    },
+    {
+        "publisherId": 1,
+        "publisherName": " KSRM ",
+        "address": "Andhra Pradesh ",
+        "country": "India"
+    },
+    {
+        "publisherId": 6,
+        "publisherName": "Akshara",
+        "address": "Vijayawada",
+        "country": "India"
+    },
+    {
+        "publisherId": 7,
+        "publisherName": "Rupa Publications",
+        "address": "Delhi",
+        "country": "India"
+    },
+    {
+        "publisherId": 8,
+        "publisherName": "Rupa Publications",
+        "address": "Delhi",
+        "country": "India"
+    },
+    {
+        "publisherId": 9,
+        "publisherName": "Rupa Publications",
+        "address": "Delhi",
+        "country": "India"
+    }
+]

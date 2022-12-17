@@ -1,0 +1,25 @@
+[   
+    { "publisherId": 1,
+        "publisherName": "jaico Publishing House ",
+        "address": "Mumbai ",
+        "country": "India"
+    },
+    
+     {"publisherId": 2,
+        "publisherName": "Horper Collins",
+        "address": "New York",
+        "country": "United States"
+    },
+    {
+        "publisherId": 3,
+        "publisherName": "Simon&Shuster",
+        "address": "New York",
+        "country": "United States"
+    },
+    {
+        "publisherId": 4,
+        "publisherName": "Westland Publications",
+        "address": "Madras",
+        "country": "India"
+    }
+]
